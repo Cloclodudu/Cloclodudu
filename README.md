@@ -1,13 +1,28 @@
 ### Hi there 👋
 
-### :video_game: Cyber
+## :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩s
 
 Name | Profiles | Writeups
 -----|--------|---------
-:computer: [tryhackme] | [My profile](https://tryhackme.com/p/Ccllo) |
-🚩 [CTFlearn] | [My profile](https://ctflearn.com/user/Ccllo)
-:unlock: [hackthebox] | [My profile](https://www.hackthebox.com/home/users/profile/1421207)
+:computer: [tryhackme] | [My profile](https://tryhackme.com/p/Ccllo) | -
+🚩 [CTFlearn] | [My profile](https://ctflearn.com/user/Ccllo) | [binary, forensic, reversing, crypto](https://github.com/Cloclodudu/CTFlearn-writeups)
+:unlock: [hackthebox] | [My profile](https://www.hackthebox.com/home/users/profile/1421207) | -
 </p>
+
+## :writing_hand: CTFlearn
+
+Name | Type | Link
+-----|--------|---------
+Encryption Master | crypto | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-crypto-writeups)
+So many 64s | crypto | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-crypto-writeups)
+RSA Twins! | crypto | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-crypto-writeups)
+Symbolic Decimals | crypto | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-crypto-writeups)
+CoppeRSA Lattice | crypto | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-crypto-writeups)
+Blackbox | binary | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-binary-writeups)
+Corrupted File | forensic | [link](https://github.com/Cloclodudu/CTFlearn-writeups/blob/main/CTFlearn-forensics-writeups)
+
+</p>
+
 
 :page_with_curl: I'm currently learning: 
 <br><br>
