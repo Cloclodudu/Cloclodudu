@@ -1,15 +1,18 @@
 ### Hi there 👋
 
+ 
+  
 ## :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩s
 
-Name | Profiles | Writeups
------|--------|---------
-:computer: [tryhackme] | [My profile](https://tryhackme.com/p/Ccllo) | -
-🚩 [CTFlearn] | [My profile](https://ctflearn.com/user/Ccllo) | [binary, forensic, reversing, crypto](https://github.com/Cloclodudu/CTFlearn-writeups)
-:unlock: [hackthebox] | [My profile](https://www.hackthebox.com/home/users/profile/1421207) | -
-</p>
 
-## :writing_hand: CTFlearn
+Name | Profiles 
+-----|--------
+:computer: [tryhackme] | [My profile](https://tryhackme.com/p/Ccllo) 
+🚩 [CTFlearn] | [My profile](https://ctflearn.com/user/Ccllo) 
+:unlock: [hackthebox] | [My profile](https://www.hackthebox.com/home/users/profile/1421207) 
+
+## :memo: CTFlearn Writeups
+
 
 Name | Type | Link
 -----|--------|---------
