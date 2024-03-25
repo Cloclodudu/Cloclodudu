@@ -2,9 +2,9 @@
 
 ### :video_game: Cyber
 
-Name | Profiles
------|--------
-:computer: [tryhackme] | [My profile](https://tryhackme.com/p/Ccllo)
+Name | Profiles | Writeups
+-----|--------|---------
+:computer: [tryhackme] | [My profile](https://tryhackme.com/p/Ccllo) |
 🚩 [CTFlearn] | [My profile](https://ctflearn.com/user/Ccllo)
 :unlock: [hackthebox] | [My profile](https://www.hackthebox.com/home/users/profile/1421207)
 </p>
